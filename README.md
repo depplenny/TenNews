@@ -1,5 +1,7 @@
 # Ten News
 
+Android Basics: Networking - Udacity
+
 A news app that displays 10 news from different sources.
 
 ## Tools
